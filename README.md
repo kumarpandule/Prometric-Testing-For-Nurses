@@ -13,9 +13,9 @@ which is accessible at Prometric Testing For Nurses unless otherwise defined in 
 
 For a better experience, while using our Service, I may require you to provide us with certain personally identifiable information, including but not limited to Android Application Developer. The information that I request will be retained on your device and is not collected by me in any way.The app does use third party services that may collect information used to identify you.Link to privacy policy of third party service providers used by the app 
 
-Google Play Services. 
-AdMob. 
-Google Analytics for Firebase.
+- Google Play Services 
+- AdMob
+- Google Analytics for Firebase
 
 ### Log Data
 
